@@ -9,3 +9,14 @@ managed using Git version control.
 
 To demonstrate software development
 practices applied to network operations.
+
+## Project Objectives
+
+- Manage network configuration files using Git.
+- Develop firewall configurations.
+- Support collaborative network development.
+
+## Project Objectives_2
+
+- Manage network configuration files using Git.
+- Support collaborative network developmen
