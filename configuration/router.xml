@@ -1,0 +1,6 @@
+<device>
+<hostname>R1</hostname>
+<vendor>Cisco</vendor>
+<ip_address>192.168.1.1</ip_address>
+<role>HomeGateway Router_1</role>
+</device>
