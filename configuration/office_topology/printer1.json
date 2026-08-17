@@ -1,0 +1,7 @@
+{
+"hostname": "Printer1",
+"device_type": "Printer",
+"owner": "Office User",
+"ip_address": "10.0.0.60",
+"operating_system": "Windows 11"
+}

@@ -1,0 +1,7 @@
+{
+"hostname": "Phone1",
+"device_type": "Phone",
+"owner": "Office User",
+"ip_address": "10.0.0.54",
+"operating_system": "Nokia"
+}
